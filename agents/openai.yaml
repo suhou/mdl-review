@@ -1,0 +1,7 @@
+interface:
+  display_name: "MDL Review"
+  short_description: "Review complexity with Minimum Description Length"
+  default_prompt: "Use $mdl-review to perform a read-only MDL review of this change."
+
+policy:
+  allow_implicit_invocation: false
